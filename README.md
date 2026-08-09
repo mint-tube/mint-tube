@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
 </p>
 
-- **Competitive programmer from Russia**
+- **Competitive programmer**
 - **Professional CMake hater**
 - **C++20 enjoyer**  
 
