@@ -9,4 +9,4 @@
 - **Professional CMake hater**
 - **C++20 enjoyer**  
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mint-tube&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mint-tube&show_icons=true&theme=github_dark)  
