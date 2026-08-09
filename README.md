@@ -1,16 +1,12 @@
-## Hi there 👋
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
+</p>
 
-<!--
-**mint-tube/mint-tube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Competitive programmer from Russia**
+- **Professional CMake hater**
+- **C++20 enjoyer**  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=mint-tube&show_icons=true&theme=dark)  
