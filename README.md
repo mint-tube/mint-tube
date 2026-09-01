@@ -8,6 +8,8 @@
   <img src="https://img.shields.io/badge/Debian-981A33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
 </div>
 
+---
+
 - **Competitive programmer**
 - **Professional CMake hater**
 
